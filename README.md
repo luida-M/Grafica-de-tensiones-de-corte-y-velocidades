@@ -4,7 +4,7 @@ Este notebook resuelve y analiza el problema de flujo viscoso y estacionario de 
 
 ## ✅ Objetivos
 
-- Determinar la **distribución de velocidades** ( Vz(r) en coordenadas cilíndricas aplicando la solución analítica de la ecuación de Navier-Stokes para flujo unidimensional.
+- Determinar la **distribución de velocidades** Vz(r) en coordenadas cilíndricas aplicando la solución analítica de la ecuación de Navier-Stokes para flujo unidimensional.
 - Calcular las **constantes de integración** ( C1) y ( C2) a partir de las condiciones de contorno (velocidades dadas en los cilindros).
 - Obtener el perfil de la **tensión de corte** que actúa sobre el fluido, en función del gradiente radial de velocidad.
 - Representar gráficamente la distribución de velocidad y la tensión de corte entre los cilindros.
@@ -18,11 +18,10 @@ Este notebook resuelve y analiza el problema de flujo viscoso y estacionario de 
 
 ## 🧮 Parámetros utilizados
 
-- Radio interior: \( R_1 = 0.01 \, m \)
-- Radio exterior: \( R_2 = 0.015 \, m \)
+- Radio interior: ( R1 = 0.01 \, m \)
+- Radio exterior: ( R2 = 0.015 \, m \)
 - Velocidad en el cilindro exterior: \( U = 0.02 \, m/s \)
-- Viscosidad dinámica: \( \mu = 1 \times 10^{-3} \, Pa \cdot s \)
-
+- Viscosidad dinámica: u= 1.10^{-3} \ Pa.s 
 ## 📈 Resultados esperados
 
 - Perfil de velocidad con forma logarítmica decreciente hacia el cilindro interior.
