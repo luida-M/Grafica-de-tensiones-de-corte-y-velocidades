@@ -18,10 +18,10 @@ Este notebook resuelve y analiza el problema de flujo viscoso y estacionario de 
 
 ## 🧮 Parámetros utilizados
 
-- Radio interior: ( R1 = 0.01 \, m \)
-- Radio exterior: ( R2 = 0.015 \, m \)
-- Velocidad en el cilindro exterior: \( U = 0.02 \, m/s \)
-- Viscosidad dinámica: u= 1.10^{-3} \ Pa.s 
+- Radio interior: R1 = 0.01 m 
+- Radio exterior: R2 = 0.015 m
+- Velocidad en el cilindro exterior: U = 0.02 m/s
+- Viscosidad dinámica: u= 1.10^-3 Pa.s 
 ## 📈 Resultados esperados
 
 - Perfil de velocidad con forma logarítmica decreciente hacia el cilindro interior.
