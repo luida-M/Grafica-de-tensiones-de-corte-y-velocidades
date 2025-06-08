@@ -1,7 +1,6 @@
 # Distribución de Velocidades y Tensiones de Corte en un Flujo entre Cilindros Concéntricos
 
-Este notebook resuelve y analiza el problema de flujo viscoso y estacionario de un fluido incompresible entre dos cilindros concéntricos, correspondiente a un ejercicio típico de la materia *Mecánica de Fluidos* en Ingeniería Industrial.
-
+Este notebook resuelve y analiza el problema de flujo viscoso y estacionario de un fluido incompresible entre dos cilindros concéntricos.
 ## ✅ Objetivos
 
 - Determinar la **distribución de velocidades** Vz(r) en coordenadas cilíndricas aplicando la solución analítica de la ecuación de Navier-Stokes para flujo unidimensional.
